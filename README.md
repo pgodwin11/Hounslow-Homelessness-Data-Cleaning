@@ -7,9 +7,13 @@ This project is somewhat personal as it delves into the issue of homelessness wi
 Key Components
 
 Data was collected from data.hounslow.gov.
+
 Creation of schema and table and import of data into MySQL.
+
 Data cleaning and preparation of data.
+
 MySQL database connected to Power BI.
+
 Built interactive dashboard in Power BI.
  
 

@@ -1,18 +1,3 @@
-Project Overview
-
-This project is somewhat personal as it delves into the issue of homelessness within my local borough, Hounslow. While London has long struggled with homelessness, this study focuses specifically on the homeless applications in the London Borough of Hounslow over the span of a decade. This analysis will explore the different ages categories, needs, reasons, and ethnic group demographics. With data spanning from 2005 to 2015, representing the up to date information made available from Hounslow's records, the aim is to extract insights and formulate potential reccomendations to address homelessness within the borough. Through comprehensive data cleaning using SQL and insightful data visualization techniques with Power BI, this project aims to uncover nuanced patterns and trends, facilitating a deeper understanding of the homelessness landscape in Hounslow.
-
- 
-
-Key Components
-
-Data was collected from data.hounslow.gov.
-Creation of schema and table and import of data into MySQL.
-Data cleaning and preparation of data.
-MySQL database connected to Power BI.
-Built interactive dashboard in Power BI.
- 
-
 Data Cleaning Procedure
 
 Dropped Columns: Unnecessary columns were removed from the dataset(Publisher Label, Publisher URL, DecisionCode) as they were deemed irrelevant for future analysis.

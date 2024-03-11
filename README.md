@@ -21,6 +21,5 @@ Filtered Decision Time: Created a new column that would calculate decision time 
 Categorized Age: Age values were categorized into age groups and stored into a new column (age_category) to simplify analysis and interpretations of age-related patterns.
  
 
-Key Insights and Recommedations(Coming Soon)
 
  
